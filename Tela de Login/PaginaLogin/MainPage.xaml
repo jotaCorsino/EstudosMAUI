@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaginaLogin.MainPage"
+             BackgroundColor="#fffffa">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="12"
+            MinimumWidthRequest="320"
+            MaximumWidthRequest="388">
+            <Image
+                Source="wing.svg"
+                HeightRequest="185" />
+
+            <Label
+                Text="Sign in to Hermes"
+                TextColor="Black"
+                FontAttributes="Bold"
+                FontSize="18"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Frame
+                CornerRadius="20"
+                HeightRequest="44"
+                BackgroundColor="#eaeae5"
+                BorderColor="Transparent"
+                Padding="0"
+                Margin="0"
+                HasShadow="false">
+                <Entry
+                    x:Name="EmailEntry"
+                    Placeholder="Email"
+                    TextColor="#696969"
+                    FontSize="12"
+                    BackgroundColor="Transparent" 
+                    MinimumWidthRequest="200"
+                    MaximumWidthRequest="300"/>                
+            </Frame>
+            <Frame
+                CornerRadius="20"
+                HeightRequest="44"
+                BackgroundColor="#eaeae5"
+                BorderColor="Transparent"
+                Padding="0"
+                Margin="0"
+                HasShadow="false">
+                <Entry
+                    x:Name="PasswordEntry"
+                    Placeholder="Senha"
+                    TextColor="#696969"
+                    FontSize="12"
+                    BackgroundColor="Transparent"
+                    MinimumWidthRequest="200"
+                    MaximumWidthRequest="300" />                
+            </Frame>
+            <StackLayout>
+                <StackLayout 
+                    Orientation="Horizontal"
+                    >
+                    <CheckBox 
+                        x:Name="rememberMeCheckBox" 
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        Margin="0"/>
+                    <Label
+                        Text="Remember Me"
+                        TextColor="Black"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Start"
+                        FontSize="12" />
+                    <Label
+                        Text="Forgot Password?"
+                        TextColor="Black"
+                        TextDecorations="Underline"
+                        VerticalOptions="Center"
+                        HorizontalOptions="EndAndExpand"
+                        FontSize="12" />
+                </StackLayout>
+            </StackLayout>
+
+
+            <Button
+                x:Name="Btn_SignIn"
+                Text="Sign in"
+                FontSize="12"
+                TextColor="White"
+                FontAttributes="Bold"
+                BackgroundColor="#fdc500"                
+                CornerRadius="20"
+                SemanticProperties.Hint="Log in"
+                Clicked="Btn_SignIn_Clicked" />
+
+            <StackLayout>
+                <StackLayout 
+                    Orientation="Horizontal"
+                    HorizontalOptions="Center">
+
+                    <Label 
+                        Text="Don't have an account?"
+                        FontSize="12"
+                        TextColor="Black"/>
+                    <Label 
+                        Text="Sign In now"
+                        Padding="6 , 0"
+                        FontSize="12"
+                        TextColor="#fdc500"/>
+                </StackLayout>
+
+
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
