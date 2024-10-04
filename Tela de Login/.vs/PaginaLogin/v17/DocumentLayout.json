@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\",
+  "WorkspaceRootPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\paginalogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|solutionrelative:paginalogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\paginalogin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\tela de login\\paginalogin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|solutionrelative:paginalogin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\paginalogin\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|solutionrelative:paginalogin\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\tela de login\\paginalogin\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|solutionrelative:paginalogin\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\tela de login\\paginalogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461F706-A8E5-4FD3-B1C2-6B9F911EE5C3}|PaginaLogin\\PaginaLogin.csproj|solutionrelative:paginalogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\AppShell.xaml",
-              "RelativeDocumentMoniker": "PaginaLogin\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\AppShell.xaml",
-              "RelativeToolTip": "PaginaLogin\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T14:41:53.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\MainPage.xaml",
               "RelativeDocumentMoniker": "PaginaLogin\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\MainPage.xaml",
               "RelativeToolTip": "PaginaLogin\\MainPage.xaml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T14:09:37.493Z",
+              "WhenOpened": "2024-10-04T16:15:38.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "PaginaLogin\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\Dashboard.xaml",
+              "RelativeToolTip": "PaginaLogin\\Dashboard.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T16:07:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PaginaLogin\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\MainPage.xaml.cs",
               "RelativeToolTip": "PaginaLogin\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T14:09:30.654Z",
               "EditorCaption": ""

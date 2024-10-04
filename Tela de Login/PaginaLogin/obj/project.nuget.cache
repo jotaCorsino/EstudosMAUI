@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V3vQoSJiM/8=",
+  "dgSpecHash": "IuvgKH9Ar24=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\PaginaLogin.csproj",
+  "projectFilePath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\PaginaLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.design\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\joao.design\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

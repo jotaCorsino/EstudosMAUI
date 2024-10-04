@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\PaginaLogin.csproj",
+      "projectUniqueName": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\PaginaLogin.csproj",
       "projectName": "PaginaLogin",
-      "projectPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\PaginaLogin.csproj",
+      "projectPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\PaginaLogin.csproj",
       "packagesPath": "C:\\Users\\joao.design\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\PaginaLogin\\obj\\",
+      "outputPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\Tela de Login\\PaginaLogin\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

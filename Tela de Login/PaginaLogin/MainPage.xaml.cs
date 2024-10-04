@@ -10,7 +10,7 @@
         }
 
 
-        private void Btn_SignIn_Clicked(object sender, EventArgs e)
+        private async void Btn_SignIn_Clicked(object sender, EventArgs e)
         {
             string email = EmailEntry.Text;
             string password = PasswordEntry.Text;
@@ -19,15 +19,17 @@
             if (IsValidCredentials(email, password))
             {
                 // Login bem-sucedido
-                DisplayAlert("Sucesso", "Login efetuado com sucesso!", "OK");
+                await DisplayAlert("Sucesso", "Login efetuado com sucesso!", "OK");
 
             }
             else
             {
                 // Exibe uma mensagem de erro
-                DisplayAlert("Erro", "Usuário ou senha inválidos.", "OK");
+                await DisplayAlert("Erro", "Usuário ou senha inválidos.", "OK");
                 
             }
+            await Navigation.PushAsync(new Dashboard());
+            PasswordEntry.Text = string.Empty;
         }
 
         // Função para verificar se as credenciais são válidas (exemplo básico)

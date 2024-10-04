@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaginaLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+34657421a35c13528e19afae268d5d0139469e95")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaginaLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaginaLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

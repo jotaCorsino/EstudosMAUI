@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.paginalogin</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>054246D8B6DA6BE1D8EA3DDFE35548121C19EC2D9917286E6719A02DEDA76E4C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.paginalogin_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.paginalogin_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,268 +26,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-03T17:48:46.016</Modified>
+      <Modified>2024-10-04T16:16:17.149</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-03T14:11:42.617</Modified>
+      <Modified>2024-10-04T16:08:48.461</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.runtimeconfig.json">
       <PackagePath>PaginaLogin.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-03T14:11:42.461</Modified>
+      <Modified>2024-10-04T16:08:48.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.dll">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.dll">
       <PackagePath>PaginaLogin.dll</PackagePath>
-      <Modified>2024-10-03T17:48:45.750</Modified>
+      <Modified>2024-10-04T16:16:16.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PaginaLogin.exe</PackagePath>
-      <Modified>2024-10-03T17:48:45.765</Modified>
+      <Modified>2024-10-04T16:16:16.384</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-10-03T14:09:11.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-10-03T14:09:22.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-10-03T14:09:22.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-10-03T14:09:22.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-10-03T14:09:22.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-10-03T14:09:22.449</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-10-03T14:09:11.752</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-10-03T14:09:11.753</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.004</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.004</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.004</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.004</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.003</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.010</Modified>
+      <Modified>2024-10-04T16:05:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.010</Modified>
+      <Modified>2024-10-04T16:05:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.009</Modified>
+      <Modified>2024-10-04T16:05:39.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.011</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.011</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.011</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.011</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.011</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.010</Modified>
+      <Modified>2024-10-04T16:05:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.010</Modified>
+      <Modified>2024-10-04T16:05:39.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.010</Modified>
+      <Modified>2024-10-04T16:05:39.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.006</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.006</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.006</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.006</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.006</Modified>
+      <Modified>2024-10-04T16:05:39.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.008</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.007</Modified>
+      <Modified>2024-10-04T16:05:39.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.005</Modified>
+      <Modified>2024-10-04T16:05:39.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.005</Modified>
+      <Modified>2024-10-04T16:05:39.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.005</Modified>
+      <Modified>2024-10-04T16:05:39.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.005</Modified>
+      <Modified>2024-10-04T16:05:39.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.005</Modified>
+      <Modified>2024-10-04T16:05:39.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.013</Modified>
+      <Modified>2024-10-04T16:05:39.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.013</Modified>
+      <Modified>2024-10-04T16:05:39.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-10-03T14:09:23.012</Modified>
+      <Modified>2024-10-04T16:05:39.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.deps.json">
+    <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PaginaLogin.deps.json">
       <PackagePath>PaginaLogin.deps.json</PackagePath>
-      <Modified>2024-10-03T14:11:42.354</Modified>
+      <Modified>2024-10-04T16:08:48.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -1,1 +1,1 @@
-C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\PaginaLogin\PaginaLogin.csproj;x64
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\Tela de Login\PaginaLogin\PaginaLogin.csproj;x64

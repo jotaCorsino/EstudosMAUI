@@ -103,7 +103,7 @@
                         FontSize="12"
                         TextColor="Black"/>
                     <Label 
-                        Text="Sign In now"
+                        Text="Sign Up now"
                         Padding="6 , 0"
                         FontSize="12"
                         TextColor="#fdc500"/>
