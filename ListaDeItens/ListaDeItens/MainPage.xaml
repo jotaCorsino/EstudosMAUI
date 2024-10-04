@@ -25,41 +25,21 @@
                 Text="Adicione itens ao seu arsenal:"
                 Style="{StaticResource SubHeadline}"
                 FontSize="20"/>
-            
-            <Entry
-                x:Name="NomeItem"
-                Text="{Binding Nome}"
-                Placeholder="Digite o nome do item"/>
 
-            <Entry
-                x:Name="DescricaoItem"
-                Text="{Binding Descricao}"
-                Placeholder="Descricao"/>
+            <Label Text="Nome" />
+            <Entry x:Name="nomeEntry" 
+                   Placeholder="Digite o nome" />
 
-            <Button
-                x:Name="BtnAdditem"
-                Text="Add item" 
-                Clicked="BtnAdditem_Clicked"
-                HorizontalOptions="Fill" />
-            <Button
-                x:Name="BtnListItens"
-                Text="Listar Itens" 
-                Clicked="BtnListItens_Clicked"
-                HorizontalOptions="Fill" />
+            <Label Text="Descrição" />
+            <Entry x:Name="descricaoEntry" 
+                   Placeholder="Digite a descrição" />
 
-            <Label
-                x:Name="ListaInventario"
-                Text="Inventário"
-                TextColor="DarkGrey"
-                FontSize="18"
-                IsVisible="false"
-                HorizontalOptions="Center"/>
-            
-            <VerticalStackLayout 
-                x:Name="vsItens"
-                Padding="24 , 8">                
+            <Button Text="Adicionar Item" 
+                    Clicked="OnAdicionarItemClicked" />
 
-            </VerticalStackLayout>
+            <Button Text="Ir para o Inventário" 
+                    Clicked="OnInventarioClicked" />
+
         </VerticalStackLayout>
     </ScrollView>
 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaDeItens.Detalhes"
+             Title="Detalhes">
+    <VerticalStackLayout Padding="20"
+                         Spacing="12"
+                         MaximumWidthRequest="400"
+                         MinimumWidthRequest="320">
+        <Label Text="Detalhes do Item" FontSize="Large" />
+
+        <Label Text="Nome" FontAttributes="Bold" />
+        <Label Text="{Binding Nome}" />
+
+        <Label Text="Descrição" FontAttributes="Bold" />
+        <Label Text="{Binding Descricao}" />
+
+        <Label Text="Poderes" FontAttributes="Bold" />
+        <Label Text="{Binding Poderes}" />
+
+        <Label Text="História" FontAttributes="Bold" />
+        <Label Text="{Binding Historia}" />
+
+        <Button Text="Editar" Clicked="OnEditarClicked" />
+        <Button Text="Voltar" Clicked="OnVoltarClicked" />
+    </VerticalStackLayout>
+    
+</ContentPage>

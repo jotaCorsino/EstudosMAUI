@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\inventario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\inventario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\inventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\inventario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\editar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\editar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\editar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|solutionrelative:listadeitens\\editar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DBF3276-7FB0-42AB-A9C5-96A8D5E92F40}|ListaDeItens\\ListaDeItens.csproj|c:\\users\\joao.design\\desktop\\projetos\\cursomaui\\maui\\paginalogin\\estudosmaui\\listadeitens\\listadeitens\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,45 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "ListaDeItens\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Models\\Item.cs",
-              "RelativeToolTip": "ListaDeItens\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:26:40.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListaDeItens\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml.cs",
-              "RelativeToolTip": "ListaDeItens\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:12:17.386Z",
+              "Title": "Inventario.xaml",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Inventario.xaml",
+              "RelativeDocumentMoniker": "ListaDeItens\\Inventario.xaml",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Inventario.xaml",
+              "RelativeToolTip": "ListaDeItens\\Inventario.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T21:12:57.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Inventario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Inventario.xaml.cs",
+              "RelativeDocumentMoniker": "ListaDeItens\\Inventario.xaml.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Inventario.xaml.cs",
+              "RelativeToolTip": "ListaDeItens\\Inventario.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:46:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml",
               "RelativeDocumentMoniker": "ListaDeItens\\MainPage.xaml",
               "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml",
               "RelativeToolTip": "ListaDeItens\\MainPage.xaml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T20:12:15.521Z",
+              "WhenOpened": "2024-10-04T19:40:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListaDeItens\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\MainPage.xaml.cs",
+              "RelativeToolTip": "ListaDeItens\\MainPage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:18:57.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.xaml",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Editar.xaml",
+              "RelativeDocumentMoniker": "ListaDeItens\\Editar.xaml",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Editar.xaml",
+              "RelativeToolTip": "ListaDeItens\\Editar.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T17:16:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Editar.xaml.cs",
+              "RelativeDocumentMoniker": "ListaDeItens\\Editar.xaml.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Editar.xaml.cs",
+              "RelativeToolTip": "ListaDeItens\\Editar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:17:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalhes.xaml",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Detalhes.xaml",
+              "RelativeDocumentMoniker": "ListaDeItens\\Detalhes.xaml",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Detalhes.xaml",
+              "RelativeToolTip": "ListaDeItens\\Detalhes.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T17:09:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detalhes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Detalhes.xaml.cs",
+              "RelativeDocumentMoniker": "ListaDeItens\\Detalhes.xaml.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Detalhes.xaml.cs",
+              "RelativeToolTip": "ListaDeItens\\Detalhes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:09:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ListaDeItens\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\joao.design\\Desktop\\Projetos\\CursoMAUI\\MAUI\\PaginaLogin\\EstudosMAUI\\ListaDeItens\\ListaDeItens\\Models\\Item.cs",
+              "RelativeToolTip": "ListaDeItens\\Models\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:26:40.369Z",
               "EditorCaption": ""
             }
           ]

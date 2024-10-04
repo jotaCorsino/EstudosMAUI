@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaDeItens.Inventario">
+
+    <VerticalStackLayout Padding="12"
+                         MaximumWidthRequest="400"
+                         MinimumWidthRequest="320">
+        <Label Text="Inventário" FontSize="Large" />
+        <CollectionView ItemsSource="{Binding Itens}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10" ColumnDefinitions="*, Auto">
+
+                        <!-- Nome e Descrição na primeira coluna -->
+                        <StackLayout Grid.Column="0" VerticalOptions="Center">
+                            <Label Text="{Binding Nome}" FontAttributes="Bold" />
+                            <Label Text="{Binding Descricao}" />
+                        </StackLayout>
+
+                        <!-- Botão "Detalhes" na segunda coluna -->
+                        <Button Grid.Column="1" 
+                                x:Name="BtnDetalhes" 
+                                Text="Detalhes" 
+                                Clicked="BtnDetalhes_Clicked"
+                                CommandParameter="{Binding}"
+                                VerticalOptions="Center" />
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button
+            x:Name="BtnSair"
+            Text="Sair"
+            Clicked="BtnSair_Clicked"/>
+    </VerticalStackLayout>
+
+</ContentPage>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaDeItens.Editar"
+             Title="Editar">
+    
+    <VerticalStackLayout Padding="20"
+                         Spacing="12"
+                         MaximumWidthRequest="400"
+                         MinimumWidthRequest="320">
+        <Label Text="Editar informações" FontSize="Large" />
+
+        <Label Text="Nome" />
+        <Entry Text="{Binding Nome}" Placeholder="Nome do Item" />
+
+        <Label Text="Descrição" />
+        <Editor Text="{Binding Descricao}" Placeholder="Descrição do Item" />
+
+        <Label Text="Poderes" />
+        <Editor Text="{Binding Poderes}" Placeholder="Poderes do Item" />
+
+        <Label Text="História" />
+        <Editor Text="{Binding Historia}" Placeholder="História do Item" AutoSize="TextChanges" HeightRequest="144"/>
+
+        <Button Text="Salvar" Clicked="OnSalvarClicked" Padding="0,12" />
+        <Button Text="Voltar" Clicked="OnVoltarClicked" Padding="0,12" />
+    </VerticalStackLayout>
+
+
+</ContentPage>

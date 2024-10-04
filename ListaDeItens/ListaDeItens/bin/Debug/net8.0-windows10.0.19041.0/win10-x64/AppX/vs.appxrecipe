@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-04T13:04:21.910</Modified>
+      <Modified>2024-10-04T21:14:18.240</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-03T20:51:58.514</Modified>
+      <Modified>2024-10-04T17:41:05.525</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListaDeItens.runtimeconfig.json">
       <PackagePath>ListaDeItens.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListaDeItens.dll">
       <PackagePath>ListaDeItens.dll</PackagePath>
-      <Modified>2024-10-04T13:04:21.698</Modified>
+      <Modified>2024-10-04T21:14:17.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ListaDeItens.exe</PackagePath>
-      <Modified>2024-10-04T13:04:21.712</Modified>
+      <Modified>2024-10-04T21:14:17.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -291,7 +291,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\PaginaLogin\EstudosMAUI\ListaDeItens\ListaDeItens\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListaDeItens.deps.json">
       <PackagePath>ListaDeItens.deps.json</PackagePath>
-      <Modified>2024-10-03T20:51:58.356</Modified>
+      <Modified>2024-10-04T17:41:05.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joao.design\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
