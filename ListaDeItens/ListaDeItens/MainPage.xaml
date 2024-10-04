@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaDeItens.MainPage">
+    
+    
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            Margin="0,44"
+            MaximumWidthRequest="400"
+            MinimumWidthRequest="320">
+
+            <Image
+                Source="sword.png"
+                HeightRequest="88"/>
+            
+            <Label
+                Text="Inventário de itens"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Adicione itens ao seu arsenal:"
+                Style="{StaticResource SubHeadline}"
+                FontSize="20"/>
+            
+            <Entry
+                x:Name="NomeItem"
+                Text="{Binding Nome}"
+                Placeholder="Digite o nome do item"/>
+
+            <Entry
+                x:Name="DescricaoItem"
+                Text="{Binding Descricao}"
+                Placeholder="Descricao"/>
+
+            <Button
+                x:Name="BtnAdditem"
+                Text="Add item" 
+                Clicked="BtnAdditem_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="BtnListItens"
+                Text="Listar Itens" 
+                Clicked="BtnListItens_Clicked"
+                HorizontalOptions="Fill" />
+
+            <Label
+                x:Name="ListaInventario"
+                Text="Inventário"
+                TextColor="DarkGrey"
+                FontSize="18"
+                IsVisible="false"
+                HorizontalOptions="Center"/>
+            
+            <VerticalStackLayout 
+                x:Name="vsItens"
+                Padding="24 , 8">                
+
+            </VerticalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
