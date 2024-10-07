@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiCRUD.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="8"
+            Spacing="25"
+            MaximumWidthRequest="400"
+            MinimumWidthRequest="400">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit" />
+
+            <Button
+                x:Name="ButtonCriarBancoDeDados"
+                Text="Criar Banco de Dados" 
+                HorizontalOptions="Fill" 
+                Clicked="ButtonCriarBancoDeDados_Clicked"/>
+            
+            <VerticalStackLayout x:Name="VslOperacoes" Spacing="16" IsVisible="false">
+
+                <Entry x:Name="EntryId" Keyboard="Numeric" Placeholder="Informe o Id"/>
+                <Entry x:Name="EntryEndereco" Placeholder="Informe o endereço do site"/>
+
+                <HorizontalStackLayout Spacing="4" HorizontalOptions="Center">
+
+                    <Button x:Name="ButtonInserir" Text="Inserir"  Clicked="ButtonInserir_Clicked"/>
+                    <Button x:Name="ButtonAlterar" Text="Alterar" Clicked="ButtonAlterar_Clicked"/>
+                    <Button x:Name="ButtonLocalizar" Text="Localizar" Clicked="ButtonLocalizar_Clicked"/>
+                    <Button x:Name="ButtonListar" Text="listar" Clicked="ButtonListar_Clicked"/>
+                    <Button x:Name="ButtonExcluir" Text="Excluir" Clicked="ButtonExcluir_Clicked"/>
+
+                </HorizontalStackLayout>
+                
+                <CollectionView x:Name="CtvLista">
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Label Text="{Binding Id}">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="TapGestureAlterarSite"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <Label Grid.Column="1" Text="{Binding Endereco}">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                    
+                </CollectionView>
+
+            </VerticalStackLayout>                       
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

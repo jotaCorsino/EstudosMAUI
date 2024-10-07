@@ -1,0 +1,7 @@
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.exe.config
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.exe
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.pdb
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.csproj.AssemblyReference.cache
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.exe
+C:\Users\joao.design\Desktop\Projetos\CursoMAUI\MAUI\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.pdb
